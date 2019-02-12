@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'HACKED';
+  src: url('HACKED.ttf') format('truetype'),
+       url('HACKED.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'original-8693';
+  src: url('original-8693.eot');
+  src: url('original-8693.eot?#iefix') format('embedded-opentype'),
+       url('original-8693.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
